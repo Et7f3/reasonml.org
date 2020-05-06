@@ -11,7 +11,7 @@
       "headers" : [
         {
           "key" : "Content-Type",
-          "value" : "application/rss+xml"
+          "value" : "application/rss+xml; charset=utf-8"
         },
         {
           "key" : "Cache-Control",
